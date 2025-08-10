@@ -23,7 +23,7 @@ return {
 		openai = "https://api.openai.com/v1/chat/completions",
 		perplexity = "https://api.perplexity.ai/chat/completions",
 		dalle = "https://api.openai.com/v1/images/generations",
-		ollama = "http://localhost:11434/api/generate",
+		ollama = "https://ollama.putty-ai.com/api/generate",
 		groq = "https://api.groq.com/openai/v1/chat/completions",
 	},
 	prompts = {
